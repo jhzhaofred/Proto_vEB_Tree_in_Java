@@ -1,9 +1,6 @@
 package proto_vEB;
 /*
 Proto Van Emde Boas Tree data structure.
-Complexity:    O(log log u) for member
-               O(log u) for insert, delete, min, max, extractMin
-               O(log u log log u) for successor, Predecessor
 */
 public class proto_vEB {
 	public int u;
